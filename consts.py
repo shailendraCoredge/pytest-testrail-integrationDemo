@@ -1,6 +1,6 @@
-USER = 'shailendra@coredge.io'
-PWD = 'theB0ss1234#'
-URL = 'https://coredge.testrail.io/'
+USER = 'userNAME'
+PWD = 'userPassword#'
+URL = 'TestRail URL'
 PROJECT_ID = 6
 CASE_TYPE_TO_ID = {
     'Acceptance': 1,
